@@ -103,7 +103,3 @@ The compiled executable will be located in the newly generated `dist/` directory
 ---
 
 *Developed as a showcase of clean MVVM architecture, robust regex parsing, and secure file I/O operations in Python.*
-
-```
-
-```
