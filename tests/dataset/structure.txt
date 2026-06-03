@@ -1,0 +1,15 @@
+py_robocopy/
+│
+├── main.py
+├── models/
+│   ├── __init__.py
+│   └── copier.py
+├── viewmodels/
+│   ├── __init__.py
+│   └── main_vm.py
+├── views/
+│   ├── __init__.py
+│   └── main_window.py
+└── tests/
+    ├── __init__.py
+    └── test_copier.py

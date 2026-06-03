@@ -1,0 +1,62 @@
+Test/
+	main.py
+	models/
+	 	__init__.py
+	 	copier.py
+	viewmodels/
+		__init__.py
+		main_vm.py
+	views/
+		__init__.py
+		main_window.py
+	tests/
+		 __init__.py
+		test_copier.py
+
+Test1/
+	main.py
+	models/
+	 	__init__.py
+	 	copier.py
+	viewmodels/
+		__init__.py
+		main_vm.py
+	views/
+		__init__.py
+		main_window.py
+	tests/
+		 __init__.py
+		test_copier.py
+
+treegen/
+│
+├── main.py
+│
+├── models/
+│   ├── __init__.py
+│   └── tree_creator.py
+│
+├── viewmodels/
+│   ├── __init__.py
+│   └── main_viewmodel.py
+│
+├── views/
+│   ├── __init__.py
+│   └── main_window.py
+│
+├── services/
+│   ├── __init__.py
+│   ├── parser_service.py
+│   └── undo_service.py
+│
+├── utils/
+│   ├── __init__.py
+│   └── logger.py
+│
+├── tests/
+│   ├── __init__.py
+│   ├── test_parser.py
+│   └── test_creator.py
+│
+└── resources/
+    └── icons/
